@@ -1,6 +1,6 @@
 {
   "name": "express-json-schema",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds res.jsonSchema to express response object to return JSON Schema from jsDoc @schema tags",
   "main": "index.js",
   "directories": {
