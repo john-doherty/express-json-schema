@@ -1,6 +1,8 @@
 # express-json-schema
 
-Adds `res.jsonSchema` to express response object tp return JSON Schema from jsDoc @schema tags.
+Adds `res.jsonSchema` to express response object to return JSON Schema from jsDoc @schema tags.
+
+Uses [jsdoc-to-json-schema](https://github.com/john-doherty/jsdoc-to-json-schema) internally.
 
 ## Installation
 
