@@ -1,7 +1,7 @@
 {
   "name": "express-json-schema",
-  "version": "0.0.3",
-  "description": "Adds res.jsonSchema to express response object to return JSON Schema from jsDoc @schema tags",
+  "version": "0.0.5",
+  "description": "Adds res.jsonSchema method to express to return JSON Schema from a JS file containing @schema tags",
   "main": "index.js",
   "directories": {
     "example": "examples",
@@ -17,6 +17,7 @@
   "keywords": [
     "json",
     "schema",
+    "validation",
     "json-schema",
     "express",
     "middleware",

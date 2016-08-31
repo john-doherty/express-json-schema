@@ -1,8 +1,6 @@
 # express-json-schema
 
-Adds `res.jsonSchema` to express response object to return JSON Schema from jsDoc @schema tags.
-
-Uses [jsdoc-to-json-schema](https://github.com/john-doherty/jsdoc-to-json-schema) internally.
+Adds `res.jsonSchema` method to express to return JSON Schema from a JS file containing [@schema](https://github.com/john-doherty/jsdoc-to-json-schema) **@schema** tags
 
 ## Installation
 
@@ -122,4 +120,4 @@ A list of supported tags can be viewed at [jsdoc-to-json-schema](https://github.
 
 ## License
 
-[ISC License](LICENSE) &copy; 2016 [John Doherty](http://wwww.johndoherty.info/)
+[ISC License](LICENSE) &copy; 2016 [John Doherty](https://courseof.life/johndoherty)
