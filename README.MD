@@ -1,6 +1,7 @@
 # express-json-schema
+[![npm](https://img.shields.io/npm/dt/express-json-schema.svg)](https://www.npmjs.com/package/express-json-schema) [![Linked In](https://img.shields.io/badge/Linked-In-blue.svg)](https://www.linkedin.com/in/john-i-doherty) [![Twitter Follow](https://img.shields.io/twitter/follow/CambridgeMVP.svg?style=social&label=Twitter&style=plastic)](https://twitter.com/CambridgeMVP)
 
-Adds `res.jsonSchema` method to express to return JSON Schema from a JS file containing [@schema](https://github.com/john-doherty/jsdoc-to-json-schema) **@schema** tags
+Adds express `res.jsonSchema` method to allow automatic generation of JSON schemas from a JS/JSON files containing [@schema](https://github.com/john-doherty/jsdoc-to-json-schema) **@schema** tags
 
 ## Installation
 
@@ -120,4 +121,4 @@ A list of supported tags can be viewed at [jsdoc-to-json-schema](https://github.
 
 ## License
 
-[ISC License](LICENSE) &copy; 2016 [John Doherty](https://courseof.life/johndoherty)
+[ISC License](LICENSE) &copy; 2016 [John Doherty](https://twitter.com/CambridgeMVP)

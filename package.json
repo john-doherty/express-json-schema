@@ -1,7 +1,7 @@
 {
   "name": "express-json-schema",
-  "version": "0.0.5",
-  "description": "Adds res.jsonSchema method to express to return JSON Schema from a JS file containing @schema tags",
+  "version": "0.0.7",
+  "description": "Adds express method to allow automatic generation of JSON schemas from a JS/JSON files containing @schema tags",
   "main": "index.js",
   "directories": {
     "example": "examples",
