@@ -1,5 +1,5 @@
 # express-json-schema
-[![npm](https://img.shields.io/npm/dt/express-json-schema.svg)](https://www.npmjs.com/package/express-json-schema) [![Linked In](https://img.shields.io/badge/Linked-In-blue.svg)](https://www.linkedin.com/in/john-i-doherty) [![Twitter Follow](https://img.shields.io/twitter/follow/CambridgeMVP.svg?style=social&label=Twitter&style=plastic)](https://twitter.com/CambridgeMVP)
+[![npm](https://img.shields.io/npm/dt/express-json-schema.svg)](https://www.npmjs.com/package/express-json-schema) [![Linked In](https://img.shields.io/badge/Linked-In-blue.svg)](https://www.linkedin.com/in/john-i-doherty) [![Twitter Follow](https://img.shields.io/twitter/follow/MrJohnDoherty.svg?style=social&label=Twitter&style=plastic)](https://twitter.com/MrJohnDoherty)
 
 Adds express `res.jsonSchema` method to allow automatic generation of JSON schemas from a JS/JSON files containing [@schema](https://github.com/john-doherty/jsdoc-to-json-schema) **@schema** tags
 
